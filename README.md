@@ -17,8 +17,6 @@
 
 # 30. Marco Saul Ramos Morales
 
-
-# 19. Triana Belen Hurtado Chicaba
 # 20. Hector Fabian Ledezma Rocha
 # 22 Jhammil Alcides Leonardo Mamani  
 # 25. MAMANI CORIA sergio elmer 
