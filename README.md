@@ -40,5 +40,3 @@
 # 37. Yhoselin Yessica Valero Huanca
 # 38. Gabriel Zeballos Gutierrez
 # 40. Steve Jobs
-
->>>>>>> d4a300e473211ffd72a05bd2b3e464392d259552
