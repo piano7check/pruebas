@@ -1,4 +1,5 @@
 # pruebas
+
 # LISTA DE INTEGRANTES DE LA MATERIA INGENIERÍA DE SOFTWARE
 # 1. Diego Anthony Adriazola Condori
 # 2. Galia Almaraz
@@ -38,9 +39,6 @@
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
 # 38. Gabriel Zeballos Gutierrez
-<<<<<<< HEAD
-# 40. Steve Jobs
-=======
 # 40. Steve Jobs
 
 >>>>>>> d4a300e473211ffd72a05bd2b3e464392d259552
