@@ -5,6 +5,7 @@
 # 4. Luis Gustavo Balderrama Vaca
 # 6. Jhoseb Pablo Cabrera Condori
 # 8. Luis Carvajal Hinojosa
+# 9. Jose Rodrigo Cerrogrande Solano
 # 10. Elia Chacmi Paco
 # 11. Josue Jhoel Chlali Cortez
 # 14. Ricardo Ángel Duran Mamani
