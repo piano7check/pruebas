@@ -6,8 +6,8 @@
 # 6. Jhoseb Pablo Cabrera Condori
 # 8. Luis Carvajal Hinojosa
 # 10. Elia Chacmi Paco
+# 13  Brian Diego Choque Lucana
 # 14. Ricardo Ángel Duran Mamani
-# 13 brian diego choque lucana
 
 # 15. Jhurguen Ergueta Mamani
 # 17. Sebastian Fernando Gomez Huanco
