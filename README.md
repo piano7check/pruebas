@@ -9,6 +9,7 @@
 # 23. Dorian Edilson Lopez Espejo
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
+# 38. Gabriel Zeballos Gutierrez
 # 40. Steve Jobs
 # 21. Cristhian Ledezma Salvatierra
 
