@@ -1,2 +1,2 @@
 # pruebas
-# 35. Efren Tandayamo
+# 35. Efrén Tandayamo
