@@ -8,8 +8,10 @@
 # 14. Ricardo Ángel Duran Mamani
 # 22 Jhammil Alcides Leonardo Mamani  
 # 23. Dorian Edilson Lopez Espejo
+# 35. Efrén Tandayamo
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
+# 38. Gabriel Zeballos Gutierrez
 # 40. Steve Jobs
 # 21. Cristhian Ledezma Salvatierra
 
