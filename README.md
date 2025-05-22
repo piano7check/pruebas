@@ -26,9 +26,6 @@
 # 35. Efrén Tandayamo
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
-# 21. Cristhian Ledezma Salvatierra
-
-
 # 40. Steve Jobs
 
 
