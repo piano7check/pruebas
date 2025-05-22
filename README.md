@@ -1,10 +1,12 @@
 # pruebas
+
 # LISTA DE INTEGRANTES DE LA MATERIA INGENIERÍA DE SOFTWARE
 # 1. Diego Anthony Adriazola Condori
 # 2. Galia Almaraz
 # 4. Luis Gustavo Balderrama Vaca
 # 6. Jhoseb Pablo Cabrera Condori
 # 8. Luis Carvajal Hinojosa
+# 9. Jose Rodrigo Cerrogrande Solano
 # 10. Elia Chacmi Paco
 # 11. Josue Jhoel Chlali Cortez
 # 14. Ricardo Ángel Duran Mamani
@@ -40,4 +42,3 @@
 # 37. Yhoselin Yessica Valero Huanca
 # 38. Gabriel Zeballos Gutierrez
 # 40. Steve Jobs
-
