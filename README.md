@@ -8,9 +8,10 @@
 # 10. Elia Chacmi Paco
 # 14. Ricardo Ángel Duran Mamani
 # 15. Jhurguen Ergueta Mamani
-
-# 21. Cristhian Ledezma Salvatierra
 # 19. Triana Belen Hurtado Chicaba
+# 21. Cristhian Ledezma Salvatierra
+# 23. Dorian Edilson Lopez Espejo
+# 25. MAMANI CORIA sergio elmer 
 # 20. Hector Fabian Ledezma Rocha
 # 22 Jhammil Alcides Leonardo Mamani 
 # 23. Dorian Edilson Lopez Espejo 
