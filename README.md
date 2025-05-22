@@ -1,6 +1,4 @@
 # pruebas
-# 35. Efrén Tandayamo
-
 # LISTA DE INTEGRANTES DE LA MATERIA INGENIERÍA DE SOFTWARE
 # 1. Diego Anthony Adriazola Condori
 # 2. Galia Almaraz
