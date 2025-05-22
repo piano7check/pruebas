@@ -1,2 +1,2 @@
 # pruebas
-# 28 Brayan Daniel Muñoz Mamani
+# 28. Brayan Daniel Muñoz Mamani
