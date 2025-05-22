@@ -33,6 +33,7 @@
 # 30. Marco Saul Ramos Morales
 # 32. David Manuel Rocha Crespo
 # 34. Jose Junior Suntura Zambrana
+# 35. Henry Efren Tandayamo Imbago
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
 # 40. Steve Jobs
