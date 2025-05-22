@@ -13,6 +13,7 @@
 # 13.  Brian Diego Choque Lucana
 # 14. Ricardo Ángel Duran Mamani
 # 15. Jhurguen Ergueta Mamani
+# 16. Carlos Alberto Garcia Canaviri
 # 17. Sebastian Fernando Gomez Huanco
 # 18. Juan David Guzman Zeballos
 # 21. Cristhian Ledezma Salvatierra
@@ -43,3 +44,5 @@
 
 
 # 23. Dorian Edilson Lopez Espejo
+
+
