@@ -12,6 +12,7 @@
 # 23. Dorian Edilson Lopez Espejo
 # 25. MAMANI CORIA sergio elmer 
 # 29. Jhonnatan Andriw Ramirez Ramos
+# 32. David Manuel Rocha Crespo
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
 
