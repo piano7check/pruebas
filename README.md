@@ -20,7 +20,6 @@
 # 23. Dorian Edilson Lopez Espejo
 # 25. MAMANI CORIA sergio elmer 
 # 34. Jose Junior Suntura Zambrana
-# 31. Alvaro Regulo Rivera Carhuani
 # 30. Marco Saul Ramos Morales
 # 19. Triana Belen Hurtado Chicaba
 # 17. Sebastian Fernando Gomez Huanco
@@ -31,8 +30,8 @@
 # 25. MAMANI CORIA sergio elmer 
 # 27. Jhosep Mendoza Coca
 # 29. Jhonnatan Andriw Ramirez Ramos
-# 31. Alvaro Regulo Rivera Carhuani
 # 30. Marco Saul Ramos Morales
+# 31. Alvaro Regulo Rivera Carhuani
 # 32. David Manuel Rocha Crespo
 # 34. Jose Junior Suntura Zambrana
 # 35. Henry Efren Tandayamo Imbago
@@ -42,7 +41,4 @@
 # 40. Steve Jobs
 
 
-
 # 23. Dorian Edilson Lopez Espejo
-
-
