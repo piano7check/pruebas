@@ -1,2 +1,2 @@
 # pruebas
-# 16. Carlos Alberto Garcia Canaviri >:-|
+# 16. Carlos Alberto Garcia Canaviri
