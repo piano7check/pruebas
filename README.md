@@ -13,7 +13,6 @@
 # 17. Sebastian Fernando Gomez Huanco
 # 18. Juan David Guzman Zeballos
 # 21. Cristhian Ledezma Salvatierra
-# 23. Dorian Edilson Lopez Espejo
 
 # 25. MAMANI CORIA sergio elmer 
 # 34. Jose Junior Suntura Zambrana
