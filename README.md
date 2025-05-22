@@ -7,6 +7,9 @@
 # 8. Luis Carvajal Hinojosa
 # 10. Elia Chacmi Paco
 # 14. Ricardo Ángel Duran Mamani
+# 15. Jhurguen Ergueta Mamani
+
+# 21. Cristhian Ledezma Salvatierra
 # 19. Triana Belen Hurtado Chicaba
 # 20. Hector Fabian Ledezma Rocha
 # 22 Jhammil Alcides Leonardo Mamani 
@@ -19,9 +22,6 @@
 # 34. Jose Junior Suntura Zambrana
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
-# 21. Cristhian Ledezma Salvatierra
-
-
 # 40. Steve Jobs
 
 
