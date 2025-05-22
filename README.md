@@ -38,4 +38,3 @@
 # 37. Yhoselin Yessica Valero Huanca
 # 38. Gabriel Zeballos Gutierrez
 # 40. Steve Jobs
-
