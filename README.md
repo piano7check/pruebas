@@ -6,14 +6,11 @@
 # 6. Jhoseb Pablo Cabrera Condori
 # 8. Luis Carvajal Hinojosa
 # 10. Elia Chacmi Paco
-# 17. Sebastian Fernando Gomez Huanco
 # 14. Ricardo Ángel Duran Mamani
 # 15. Jhurguen Ergueta Mamani
-# 19. Triana Belen Hurtado Chicaba
-# 21. Cristhian Ledezma Salvatierra
-# 23. Dorian Edilson Lopez Espejo
-# 25. MAMANI CORIA sergio elmer 
+# 17. Sebastian Fernando Gomez Huanco# 19. Triana Belen Hurtado Chicaba
 # 20. Hector Fabian Ledezma Rocha
+# 21. Cristhian Ledezma Salvatierra
 # 22 Jhammil Alcides Leonardo Mamani 
 # 23. Dorian Edilson Lopez Espejo 
 # 25. MAMANI CORIA sergio elmer 
