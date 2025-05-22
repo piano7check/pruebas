@@ -18,13 +18,8 @@
 # 21. Cristhian Ledezma Salvatierra
 # 23. Dorian Edilson Lopez Espejo
 # 25. MAMANI CORIA sergio elmer 
-
 # 34. Jose Junior Suntura Zambrana
-<<<<<<< HEAD
-=======
->>>>>>> cade860e54878ef798820e3b2cb890d76ee4dffa
 # 30. Marco Saul Ramos Morales
-
 # 19. Triana Belen Hurtado Chicaba
 # 17. Sebastian Fernando Gomez Huanco
 # 20. Hector Fabian Ledezma Rocha
