@@ -9,7 +9,12 @@
 # 10. Elia Chacmi Paco
 # 14. Ricardo Ángel Duran Mamani
 # 23. Dorian Edilson Lopez Espejo
+
+# 25. MAMANI CORIA sergio elmer 
+# 34. Jose Junior Suntura Zambrana
+
 # 30. Marco Saul Ramos Morales
+
 # 35. Efrén Tandayamo
 # 19. Triana Belen Hurtado Chicaba
 # 20. Hector Fabian Ledezma Rocha
