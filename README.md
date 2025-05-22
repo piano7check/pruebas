@@ -28,7 +28,8 @@
 # 21. Cristhian Ledezma Salvatierra
 # 22. Jhammil Alcides Leonardo Mamani 
 # 23. Dorian Edilson Lopez Espejo 
-# 25. MAMANI CORIA sergio elmer 
+# 25. MAMANI CORIA sergio elmer
+# 26. Elger Enrique Marquez Arze  
 # 27. Jhosep Mendoza Coca
 # 29. Jhonnatan Andriw Ramirez Ramos
 # 30. Marco Saul Ramos Morales
