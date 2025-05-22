@@ -5,6 +5,7 @@
 # 4. Luis Gustavo Balderrama Vaca
 # 6. Jhoseb Pablo Cabrera Condori
 # 14. Ricardo Ángel Duran Mamani
+# 17. Sebastian Fernando Gomez Huanco
 # 23. Dorian Edilson Lopez Espejo
 # 30. Marco Saul Ramos Morales
 # 35. Efrén Tandayamo
@@ -19,6 +20,8 @@
 
 # 40. Steve Jobs
 # 21. Cristhian Ledezma Salvatierra
+
+
 
 
 
