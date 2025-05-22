@@ -6,6 +6,7 @@
 # 6. Jhoseb Pablo Cabrera Condori
 # 8. Luis Carvajal Hinojosa
 # 10. Elia Chacmi Paco
+# 17. Sebastian Fernando Gomez Huanco
 # 14. Ricardo Ángel Duran Mamani
 # 15. Jhurguen Ergueta Mamani
 # 19. Triana Belen Hurtado Chicaba
@@ -26,5 +27,3 @@
 # 40. Steve Jobs
 
 
-
-# 23. Dorian Edilson Lopez Espejo
