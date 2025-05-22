@@ -22,7 +22,7 @@
 
 
 # 19. Triana Belen Hurtado Chicaba
-# 17. Sebastian Fernando Gomez Huanco# 19. Triana Belen Hurtado Chicaba
+# 17. Sebastian Fernando Gomez Huanco
 # 20. Hector Fabian Ledezma Rocha
 # 21. Cristhian Ledezma Salvatierra
 # 22 Jhammil Alcides Leonardo Mamani 
