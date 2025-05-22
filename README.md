@@ -1,2 +1,2 @@
 # pruebas
-# LISTA DE ESTUDIANTES DE LA MATERIA INGENIERÍA DE SOFTWARE
+# 13 Brian Diego Choque Lucana
