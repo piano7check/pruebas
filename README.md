@@ -2,6 +2,7 @@
 # LISTA DE INTEGRANTES DE LA MATERIA INGENIERÍA DE SOFTWARE
 # 1. Diego Anthony Adriazola Condori
 # 2. Galia Almaraz
+# 4. Luis Gustavo Balderrama Vaca
 # 6. Jhoseb Pablo Cabrera Condori
 # 14. Ricardo Ángel Duran Mamani
 # 23. Dorian Edilson Lopez Espejo
