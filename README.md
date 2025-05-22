@@ -7,6 +7,7 @@
 # 2. Galia Almaraz
 # 3. Ariel Alvarez Caceres
 # 6. Jhoseb Pablo Cabrera Condori
+# 8. Luis Carvajal Hinojosa
 # 10. Elia Chacmi Paco
 # 14. Ricardo Ángel Duran Mamani
 # 19. Triana Belen Hurtado Chicaba
