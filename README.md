@@ -1,4 +1,5 @@
 # pruebas
+<<<<<<< HEAD
 # LISTA DE INTEGRANTES DE LA MATERIA INGENIERÍA DE SOFTWARE
 # 1. Diego Anthony Adriazola Condori
 # 2. Galia Almaraz
@@ -23,3 +24,6 @@
 
 
 
+=======
+# 11. Josue Jhoel Chlali Cortez
+>>>>>>> JosueJhoelChilalilCortez
