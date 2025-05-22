@@ -3,5 +3,6 @@
 # 2. Galia Almaraz
 # 14. Ricardo Ángel Duran Mamani
 # 37. Yhoselin Yessica Valero Huanca
+# 23. Dorian Edilson Lopez Espejo
 # 40. Steve Jobs
 
