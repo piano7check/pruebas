@@ -7,6 +7,7 @@
 # 8. Luis Carvajal Hinojosa
 # 10. Elia Chacmi Paco
 # 14. Ricardo Ángel Duran Mamani
+# 21. Cristhian Ledezma Salvatierra
 # 23. Dorian Edilson Lopez Espejo
 
 # 25. MAMANI CORIA sergio elmer 
