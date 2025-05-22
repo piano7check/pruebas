@@ -16,7 +16,6 @@
 
 # 25. MAMANI CORIA sergio elmer 
 # 34. Jose Junior Suntura Zambrana
-# 31. Alvaro Regulo Rivera Carhuani
 # 30. Marco Saul Ramos Morales
 
 
