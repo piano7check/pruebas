@@ -9,6 +9,7 @@
 # 14. Ricardo Ángel Duran Mamani
 # 15. Jhurguen Ergueta Mamani
 # 17. Sebastian Fernando Gomez Huanco
+# 18. Juan David Guzman Zeballos
 # 21. Cristhian Ledezma Salvatierra
 # 23. Dorian Edilson Lopez Espejo
 
@@ -29,5 +30,3 @@
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
 # 40. Steve Jobs
-
-
