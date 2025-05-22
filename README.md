@@ -4,19 +4,39 @@
 # 2. Galia Almaraz
 # 4. Luis Gustavo Balderrama Vaca
 # 6. Jhoseb Pablo Cabrera Condori
+<<<<<<< HEAD
 # 11. Josue Jhoel Chlali Cortez
+=======
+# 8. Luis Carvajal Hinojosa
+# 10. Elia Chacmi Paco
+>>>>>>> c3ed9c76a0102accdeb3f32169b48372c8eeef35
 # 14. Ricardo Ángel Duran Mamani
+# 15. Jhurguen Ergueta Mamani
+
+# 21. Cristhian Ledezma Salvatierra
 # 23. Dorian Edilson Lopez Espejo
-# 30. Marco Saul Ramos Morales
-# 35. Efrén Tandayamo
-# 19. Triana Belen Hurtado Chicaba
-# 22 Jhammil Alcides Leonardo Mamani  
-# 23. Dorian Edilson Lopez Espejo
+
 # 25. MAMANI CORIA sergio elmer 
+# 34. Jose Junior Suntura Zambrana
+
+# 30. Marco Saul Ramos Morales
+
+# 20. Hector Fabian Ledezma Rocha
+# 22 Jhammil Alcides Leonardo Mamani  
+# 25. MAMANI CORIA sergio elmer 
+# 27. Jhosep Mendoza Coca
 # 29. Jhonnatan Andriw Ramirez Ramos
 # 32. David Manuel Rocha Crespo
+# 35. Efrén Tandayamo
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
 # 40. Steve Jobs
+<<<<<<< HEAD
 # 21. Cristhian Ledezma Salvatierra
 
+=======
+
+
+
+# 23. Dorian Edilson Lopez Espejo
+>>>>>>> c3ed9c76a0102accdeb3f32169b48372c8eeef35
