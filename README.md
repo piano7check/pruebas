@@ -9,6 +9,7 @@
 # 6. Jhoseb Pablo Cabrera Condori
 # 10. Elia Chacmi Paco
 # 14. Ricardo Ángel Duran Mamani
+# 19. Triana Belen Hurtado Chicaba
 # 22 Jhammil Alcides Leonardo Mamani  
 # 23. Dorian Edilson Lopez Espejo
 # 25. MAMANI CORIA sergio elmer 
