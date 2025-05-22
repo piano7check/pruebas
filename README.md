@@ -32,5 +32,3 @@
 # 40. Steve Jobs
 
 
-
-# 23. Dorian Edilson Lopez Espejo
