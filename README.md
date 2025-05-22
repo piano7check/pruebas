@@ -7,6 +7,8 @@
 # 8. Luis Carvajal Hinojosa
 # 10. Elia Chacmi Paco
 # 14. Ricardo Ángel Duran Mamani
+# 13 brian diego choque lucana
+
 # 15. Jhurguen Ergueta Mamani
 # 17. Sebastian Fernando Gomez Huanco# 19. Triana Belen Hurtado Chicaba
 # 20. Hector Fabian Ledezma Rocha
