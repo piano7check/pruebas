@@ -1,2 +1,2 @@
 # pruebas
-# 0. Gustavo Rojas Valdivia
+# 1. Diego Anthony Adriazola Condori
