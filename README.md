@@ -1,3 +1,3 @@
 # pruebas
 
-# 25. MAMANI CORIA sergio elmer 
+# 25. sergio elmer mamani coria 
