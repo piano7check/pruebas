@@ -18,7 +18,6 @@
 # 17. Sebastian Fernando Gomez Huanco
 # 18. Juan David Guzman Zeballos
 # 21. Cristhian Ledezma Salvatierra
-# 23. Dorian Edilson Lopez Espejo
 # 25. MAMANI CORIA sergio elmer 
 # 34. Jose Junior Suntura Zambrana
 # 30. Marco Saul Ramos Morales
@@ -39,4 +38,9 @@
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
 # 38. Gabriel Zeballos Gutierrez
+<<<<<<< HEAD
 # 40. Steve Jobs
+=======
+# 40. Steve Jobs
+
+>>>>>>> d4a300e473211ffd72a05bd2b3e464392d259552
