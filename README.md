@@ -12,6 +12,7 @@
 # 22 Jhammil Alcides Leonardo Mamani  
 # 23. Dorian Edilson Lopez Espejo
 # 25. MAMANI CORIA sergio elmer 
+# 34. Jose Junior Suntura Zambrana
 # 35. Efrén Tandayamo
 # 36. Jhoel Titirico Charca
 # 37. Yhoselin Yessica Valero Huanca
