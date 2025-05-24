@@ -9,21 +9,13 @@
 # 9. Jose Rodrigo Cerrogrande Solano
 # 10. Elia Chacmi Paco
 # 11. Josue Jhoel Chlali Cortez
-# 14. Ricardo Ángel Duran Mamani
-# 15. Jhurguen Ergueta Mamani
-# 13 brian diego choque lucana
 # 13.  Brian Diego Choque Lucana
 # 14. Ricardo Ángel Duran Mamani
 # 15. Jhurguen Ergueta Mamani
 # 16. Carlos Alberto Garcia Canaviri
 # 17. Sebastian Fernando Gomez Huanco
 # 18. Juan David Guzman Zeballos
-# 21. Cristhian Ledezma Salvatierra
-# 25. MAMANI CORIA sergio elmer 
-# 34. Jose Junior Suntura Zambrana
-# 30. Marco Saul Ramos Morales
 # 19. Triana Belen Hurtado Chicaba
-# 17. Sebastian Fernando Gomez Huanco
 # 20. Hector Fabian Ledezma Rocha
 # 21. Cristhian Ledezma Salvatierra
 # 22. Jhammil Alcides Leonardo Mamani 
